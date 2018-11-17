@@ -13,8 +13,12 @@
 
 [Spring Boot Starters 列表](starter-list.md)
 
+
+
 ## 博客
 
+- [精通 Spring Boot 42 讲](https://gitbook.cn/gitchat/column/5b86228ce15aa17d68b5b55a)
+- [微服务技术架构以及大数据治理实战](http://blog.51cto.com/cloumn/detail/4)
 - [纯洁的微笑-Spring Boot系列文章](http://www.ityouknow.com/spring-boot.html)  
 - [林祥纤-从零开始学Spring Boot](http://412887952-qq-com.iteye.com/category/356333)   
 - [Mkyong-Spring Boot教程（国外）](http://www.mkyong.com/tutorials/spring-boot-tutorials/)   
@@ -30,7 +34,9 @@
 - [天码营-Spring Boot](https://www.tianmaying.com/tutorials/tag/Springboot)  
 - [猿天地-Spring Boot](http://cxytiandi.com/blog/detail/17437)  
 - [刘冬的博客-Spring Boot](http://www.cnblogs.com/GoodHelper/tag/spring%20boot/default.html)  
-
+- [唐亚峰 Battcn-Spring Boot](http://blog.battcn.com/categories/SpringBoot/)  
+- [sylvanassun-Spring Boot](https://sylvanassun.github.io/categories/%E5%90%8E%E7%AB%AF/Java/Spring-Boot/)  
+- [dalaoyang-Spring Boot](https://www.dalaoyang.cn/tag/springboot/)  
 
 ## 开源
 
@@ -63,7 +69,8 @@
 - [Spring Boot 实现的简易社区](https://github.com/ChinaLHR/JavaQuarkBBS)
 - [springboot+shiro+jwt 开源项目](https://gitee.com/tomsun28/bootshiro)
 - [Guns-基于SpringBoot的后台管理系统](https://github.com/stylefeng/Guns)
-
+- [halo-基于SpringBoot的博客系统](https://github.com/ruibaby/halo)
+- [zhudyos/duic Distributed configuration center（分布式配置中心）:new:](https://github.com/zhudyos/duic)
 
 
 
@@ -85,3 +92,10 @@
 - [程序员导航网站](http://tooool.org/)  
 - [IT行业中文资源大全](https://github.com/ityouknow/awesome-list)  
 - [很多的 Hello Demo](https://github.com/hellokoding)  
+
+
+---
+
+关注公众号：纯洁的微笑，回复"springboot"进群交流
+
+![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
